@@ -25,4 +25,4 @@ Machine Learning · Quantitative Analysis · Statistical Modeling · Algorithms 
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/alex-brookes-159ab0405/) · [Email](mailto:brookesa1997@gmail.com) · [Resume](resume/Alex_Brookes_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/alex-brookes-159ab0405/) · [Email](mailto:brookesa1997@gmail.com) · [Resume](Alex_Brookes_Resume.pdf)

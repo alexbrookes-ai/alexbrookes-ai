@@ -1,8 +1,10 @@
 ### Hi, I'm Alex Brookes 👋
 
-I'm an engineer moving from aerospace into quantitative research, with a background spanning aerospace engineering, machine learning, and data-intensive systems.
+I'm an engineer with a background spanning aerospace engineering, machine learning, and data-intensive systems.
 
-I hold a B.S. in Aerospace Engineering (University of Virginia, 2020, minors in Physics and Computer Science). Since graduating, I've worked as an aerospace engineer and analyst supporting the National Air and Space Intelligence Center (NASIC), while completing an M.S. in Computer Science with a concentration in Artificial Intelligence part-time through the Air Force Institute of Technology (AFIT), finished in June 2026. My current focus is applying statistical modeling, machine learning, and algorithmic methods to problems involving large-scale data, uncertainty, and market microstructure.
+I hold a B.S. in Aerospace Engineering from the University of Virginia (2020), with minors in Physics and Computer Science. Since graduating, I've worked as an Aerospace Engineer and Analyst supporting the National Air and Space Intelligence Center (NASIC), while completing an M.S. in Computer Science with a concentration in Artificial Intelligence through the Air Force Institute of Technology (AFIT), which I completed in June 2026.
+
+My interests include machine learning, statistical modeling, algorithms, and large-scale data analysis. I enjoy applying quantitative and computational methods to problems involving noisy data, uncertainty, prediction, and complex real-world systems.
 
 ---
 
